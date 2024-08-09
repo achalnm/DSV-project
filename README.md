@@ -1,6 +1,6 @@
-# Data Science Projects
+# Data Science and Visualization College Projects
 
-Welcome to my collection of data science projects! This repository contains various projects showcasing data analysis, visualization, and machine learning techniques. Below is a brief overview of each project.
+These are the data science and visualization projects I completed for my DSV (Data Science and Visualization) subject during the 6th semester of college. Each project showcases different aspects of data analysis, machine learning, and visualization techniques.
 
 ## Projects
 
@@ -50,7 +50,7 @@ Classified animal species from the Zoo dataset using K-Nearest Neighbors and vis
 
 ## Contributing
 
-We welcome contributions to the projects! If you have suggestions or improvements, please fork the repository and submit a pull request. Ensure your code follows the existing style and includes relevant tests.
+Contributions are most welcome to the projects! If you have suggestions or improvements, please fork the repository and submit a pull request. Ensure your code follows the existing style and includes relevant tests.
 
 ## Contact
 
